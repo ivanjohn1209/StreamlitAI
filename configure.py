@@ -8,4 +8,4 @@ config = {
     "appId": "1:894337970722:web:d2905089db8a13d9a1907b",
     "measurementId": "G-SJ2MR1K3N1"
 }
-open_ai_key="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"
+open_ai_key="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"
